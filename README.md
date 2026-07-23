@@ -55,6 +55,6 @@ Este template cria uma função Lambda em Python 3.9 com uma role IAM básica pa
 
 "Olá, Luana! Execução Lambda bem-sucedida."
 
-<img width="1918" height="863" alt="lambda" src="https://github.com/user-attachments/assets/0138b954-bcb0-4c6c-8cfa-4a65846a2550" />
+<img width="1918" height="805" alt="lambda" src="https://github.com/user-attachments/assets/dfb61637-5fa5-4f6a-a5d2-2f9429f2fb60" />
 
 
