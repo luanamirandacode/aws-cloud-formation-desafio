@@ -28,6 +28,8 @@ Este template cria um bucket simples no Amazon S3 usando AWS CloudFormation.
 
 ## 📌 Template **Lambda com Role IAM**
 
+<img width="1918" height="863" alt="lambda" src="https://github.com/user-attachments/assets/9accb5c0-02c1-4a91-8151-d1465abb693b" />
+
 ```markdown
 # Template corrigido — Lambda com Role IAM
 
@@ -51,10 +53,8 @@ Este template cria uma função Lambda em Python 3.9 com uma role IAM básica pa
   ```json
   { "mensagem": "teste" }
 
-##Execute e veja o retorno:
+{"Olá, Luana! Execução Lambda bem-sucedida."}
 
-"Olá, Luana! Execução Lambda bem-sucedida."
 
-<img width="1918" height="805" alt="lambda" src="https://github.com/user-attachments/assets/dfb61637-5fa5-4f6a-a5d2-2f9429f2fb60" />
 
 
